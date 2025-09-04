@@ -3,7 +3,7 @@
 A beautiful and interactive weekly planner designed specifically for managing chess classes. This modern web application helps you organize your personal classes, substitute classes, and free time slots throughout the week.
 
 ## 🚀 Live Demo
-[View Live Demo](https://hemanthsankar0007.github.io/weekly-chess-scheduler/)
+[View Live Demo]([https://hemanthsankar0007.github.io/weekly-chess-scheduler/](https://weekly-chess-scheduler.vercel.app/))
 
 ## ✨ Features
 
@@ -145,3 +145,4 @@ Give a ⭐️ if this project helped you organize your chess classes!
 ---
 
 *Built with ❤️ for the chess community*
+
